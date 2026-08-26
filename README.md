@@ -1,4 +1,4 @@
-## Integrante A
+## Projeto da Dupla Fantastica
 - Nome: Yara Nascimento da Silva
 - Linguagem favorita: Python
 - ## Integrante B
