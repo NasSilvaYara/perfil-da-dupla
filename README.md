@@ -1,6 +1,6 @@
 ## Integrante A
 - Nome: Yara Nascimento da Silva
 - Linguagem favorita: Python
-- ## Integrante 2
-- Nome: Aluno B
+- ## Integrante B
+- Nome: Livia de Queiroz Schendroski
 - Linguagem favorita: JavaScript
